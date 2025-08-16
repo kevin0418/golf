@@ -8,7 +8,7 @@ docx2txt
 folium
 streamlit==1.35.0
 streamlit_folium==0.10.0
-streamlit_geolocation==0.0.3
+streamlit_geolocation==0.0.9
 langchain-community==0.0.28
 
 langchain-openai==0.0.8
